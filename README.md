@@ -135,10 +135,6 @@ chmod +x run_color_extractor.sh
 
 Feel free to submit issues and enhancement requests!
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 *Perfect for designers, developers, and anyone who loves working with colors!* 🌈
